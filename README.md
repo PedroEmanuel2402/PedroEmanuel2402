@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil pessoal! 🐞💙
 
-<!--
-**PedroEmanuel2402/PedroEmanuel2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro, e este é meu perfil no GitHub
 
-Here are some ideas to get you started:
+- Estou cursando na [Alura](https://www.alura.com.br)
+- Itinerário de Robótica/Tecnologia
+- Ensino Médio 
+- Ultilizarei esse espaço para partilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Contato:
+
+- 0000110712****sp@al.educacao.sp.gov.br
+- @pedroemax
+
+![](https://i.pinimg.com/474x/e3/ca/c5/e3cac5eb2e6db0a8b0f33134036530da.jpg)
+  
